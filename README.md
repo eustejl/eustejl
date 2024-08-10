@@ -1,4 +1,6 @@
-## Hi there 👋
+## JL Euste
+
+Hi, welcome! I am JL (which is an acronym of my first name, John Lawrence). I am currently in my first year in the [Joint International ICTP/SISSA PhD Programme](https://www.ictp.it/opportunity/joint-international-ictpsissa-phd-programme-physics-or-mathematics) in Theory and Numerical Simulation of Condensed Matter. My work is mainly computational by nature, hence this GitHub page.
 
 <!--
 **eustejl/eustejl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

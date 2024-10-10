@@ -1,6 +1,6 @@
 ## Marhay na aldaw!
 
-I am JL `(JL = John Lawrence)` Euste from Naga City, PH 🇵🇭 . I'm currently in my first year in the [Joint International ICTP/SISSA PhD Programme](https://www.ictp.it/opportunity/joint-international-ictpsissa-phd-programme-physics-or-mathematics) studying Theory and Numerical Simulation of Condensed Matter in Trieste, IT 🇮🇹 . My work is mainly computational by nature, hence this GitHub page.
+I am JL `(JL = John Lawrence)` Euste from Naga City, PH 🇵🇭 . I'm currently in my second year in the [Joint International ICTP/SISSA PhD Programme](https://www.ictp.it/opportunity/joint-international-ictpsissa-phd-programme-physics-or-mathematics) studying Theory and Numerical Simulation of Condensed Matter in Trieste, IT 🇮🇹 . My work is mainly computational by nature, hence this GitHub page.
 
 
 

@@ -19,3 +19,13 @@ locations in the cross-country map...
 - Calculation of standard deviational ellipse (SDE) of the respondent distribution and use of SDE area to measure degree of cultural diversity of its national population...
 - Countries with lower degrees of cultural diversity, i.e., smaller SDE areas, are those that
 placed greater emphasis on traditional and survival values.
+
+## Related works:
+[Spatio-temporal dynamics of cross-cultural variations ](https://proceedings.spp-online.org/article/view/SPP-2018-1B-04)
+
+[Correlating cultural values with COVID-19 outcomes ](https://proceedings.spp-online.org/article/view/SPP-2021-PB-20)
+
+[Measuring cultural diversity within countries with ellipses, contour maps, and distances](https://proceedings.spp-online.org/article/view/SPP-2024-1D-01)
+
+## Features:
+[Scientists develop method for time-dependent culture maps](https://upd.edu.ph/scientists-develop-method-for-time-dependent-culture-maps/)

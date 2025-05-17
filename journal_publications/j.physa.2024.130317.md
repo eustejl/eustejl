@@ -29,3 +29,5 @@ placed greater emphasis on traditional and survival values.
 
 ## Features:
 [Scientists develop method for time-dependent culture maps](https://upd.edu.ph/scientists-develop-method-for-time-dependent-culture-maps/)
+
+Back to homepage [🏠](../eustejl.md)

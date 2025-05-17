@@ -11,7 +11,7 @@ I am John Lawrence Euste (JL Euste) from Naga City, PH 🇵🇭 . I'm currently 
 <br>
 
 ## 📝 🇵‌🇺‌🇧‌🇱‌🇮‌🇨‌🇦‌🇹‌🇮‌🇴‌🇳‌🇸‌
-> JL Euste, HC Arjonillo and C Saloma, *Time-resolved culture maps derived from the Integrated Values Survey data (1981-2022)*, Physica A 659, 130317. https://doi.org/10.1016/j.physa.2024.130317 [ℹ️](./journal_publications/j.physa.2024.130317.md)
+> JL Euste, HC Arjonillo and C Saloma, *Time-resolved culture maps derived from the Integrated Values Survey data (1981-2022)*, Physica A 659, 130317. https://doi.org/10.1016/j.physa.2024.130317 [🤔](./journal_publications/j.physa.2024.130317.md)
 
 <br>
 

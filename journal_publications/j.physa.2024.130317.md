@@ -28,6 +28,8 @@ placed greater emphasis on traditional and survival values.
 [Measuring cultural diversity within countries with ellipses, contour maps, and distances](https://proceedings.spp-online.org/article/view/SPP-2024-1D-01)
 
 ## Features:
+[UP Physicists Visualize Evolution of Global Values Over Four Decades](https://science.upd.edu.ph/up-physicists-visualize-evolution-of-global-values-over-four-decades/?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExUmlmZUt6a2FLQzNwQm5lawEefeoo4geKlvtZ23t4wV93oAl4Ltaf8Se3EbwvbDOV3Z1KambyXHfXx4VF_SQ_aem_U44TRJlqhnANbRxNDOz0ug)
+
 [Scientists develop method for time-dependent culture maps](https://upd.edu.ph/scientists-develop-method-for-time-dependent-culture-maps/)
 
 Back to homepage [🏠](https://github.com/eustejl/)

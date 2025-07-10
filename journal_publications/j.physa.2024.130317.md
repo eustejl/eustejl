@@ -32,4 +32,6 @@ placed greater emphasis on traditional and survival values.
 
 [Scientists develop method for time-dependent culture maps](https://upd.edu.ph/scientists-develop-method-for-time-dependent-culture-maps/)
 
-Back to homepage [🏠](https://github.com/eustejl/)
+***
+
+Back to homepage >>> [🏠](https://github.com/eustejl/)

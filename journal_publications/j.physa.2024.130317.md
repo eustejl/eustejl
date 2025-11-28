@@ -20,6 +20,8 @@ locations in the cross-country map...
 - Countries with lower degrees of cultural diversity, i.e., smaller SDE areas, are those that
 placed greater emphasis on traditional and survival values.
 
+<p align='right'> -John Lawrence Euste- </p>
+
 ## Related works:
 [Spatio-temporal dynamics of cross-cultural variations ](https://proceedings.spp-online.org/article/view/SPP-2018-1B-04)
 
@@ -33,5 +35,6 @@ placed greater emphasis on traditional and survival values.
 [Scientists develop method for time-dependent culture maps](https://upd.edu.ph/scientists-develop-method-for-time-dependent-culture-maps/)
 
 ***
+
 
 Back to homepage >>> [🏠](https://github.com/eustejl/)

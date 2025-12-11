@@ -11,6 +11,8 @@ I am John Lawrence Euste (JL Euste) from Naga City, PH 🇵🇭 . I'm currently 
 <br>
 
 ## 📝 🇵‌🇺‌🇧‌🇱‌🇮‌🇨‌🇦‌🇹‌🇮‌🇴‌🇳‌🇸‌
+> JL Euste, M Hsouna and N Stojic, [*Transferable mechanism of perpendicular magnetic anisotropy switching by hole doping in VX2 (X=Te,Se,S) monolayers*](https://doi.org/10.1103/p4ww-8nq7), Phys. Rev. B 112, 214423. http<nolink>s://doi.org/10.1103/p4ww-8nq7 
+
 > JL Euste, HC Arjonillo and C Saloma, [*Time-resolved culture maps derived from the Integrated Values Survey data (1981-2022)*](https://www.sciencedirect.com/science/article/pii/S0378437124008276), Physica A 659, 130317. http<nolink>s://doi.org/10.1016/j.physa.2024.130317 [... See more](./journal_publications/j.physa.2024.130317.md)
 
 <br>

@@ -9,11 +9,11 @@ _DOI_:  https://doi.org/10.1103/p4ww-8nq7 <br>
 
 
 ## Highlights
-- Explained mechanism behind perpendicular magnetic anisotropy upon hole doping in H-VTe2 monolayer based on the larger first-order spin-orbit splitting at the VBM when spins are out-of-plane
-- Explained mechanism behind perpendicular magnetic anisotropy upon hole doping in H-VSe2 and H-VS2 monolayers based on the larger spin-orbit shift when spins are out-of-plane
+- Explained mechanism behind perpendicular magnetic anisotropy (PMA) upon hole doping in H-VTe2 monolayer based on the larger first-order spin-orbit splitting at the VBM when spins are out-of-plane
+- Explained mechanism behind PMA upon hole doping in H-VSe2 and H-VS2 monolayers based on the larger spin-orbit shift when spins are OOP
 - Investigated trends in spin-orbit coupling (SOC) effect, crystal field splitting, exchange interaction, and orbital hybridization across VX2 monolayers in the H-phase
-- Identified two conditions for the PMA enhancement upon hole doping: (1) orbital degeneracy at the valence band edge and (2) finite SOC character
-- Identified 21 point groups the ensure orbital degeneracies in the electronic structure
+- Identified two conditions for the PMA enhancement upon hole doping: (1) orbital degeneracy at the valence band edge with nonzero magnetic quantum number and (2) finite SOC character
+- Identified 21 point groups that ensure orbital degeneracies in the electronic structure
 - Identified nine (9) examples of classes of materials—satisfying the said conditions—that exhibit increasing magnetic anisotropy energy (MAE) upon hole doping
 - Demonstrated band engineering to increase MAE and shift the onset of PMA switching in VS2
 - Presented transferable guiding principles for high-throughput screening of materials for tuning magnetic anisotropy

@@ -5,7 +5,7 @@ _Journal_: Physical Review B <br>
 _Publication date_: 11 Dec 2025 <br>
 _Acceptance date_: 25 Nov 2025 <br>
 _DOI_:  https://doi.org/10.1103/p4ww-8nq7 <br>
-
+_arXiv_: http://arxiv.org/abs/2601.21322 <br>
 
 
 ## Highlights
